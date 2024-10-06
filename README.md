@@ -1,1 +1,1 @@
-# JS-coding-exercises
+為了熟悉JavaScript的邏輯與手感，並每天練習一題Javascript的基礎練習題。
